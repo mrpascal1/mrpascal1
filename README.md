@@ -8,7 +8,7 @@
 <div align=left>
         <ul>
                 <li> 🔭 I’m currently working on Android apps using Kotlin & Java.</li>
-                <li> 🌱 I’m currently learning about Jetpack Components & Node.js.</li>
+                <li> 🌱 I’m currently learning about Jetpack Compose & Node.js.</li>
                 <li> 👯 I’m looking to collaborate on Android apps.</li>
                 <li> 💬 Ask me about Android development or Programming languages.</li>
                 <li> 📫 How to reach me: above links.</li>
