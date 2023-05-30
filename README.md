@@ -13,6 +13,6 @@
                 <li> 💬 Ask me about Android development or Programming languages.</li>
                 <li> 📫 How to reach me: above links.</li>
                 <li> ⚡ Fun fact: Kotlin extension functions are addictive.</li>
-                <li> 👨‍💻 My Portfolio: <a href="https://mrpascal1.github.io">mrpascal1.github.io</a></li>
+                <li> 👨‍💻 My Portfolio: <a href="https://www.shahidraza.me">shahidraza.me</a></li>
         </ul>
 </div>
